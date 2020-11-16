@@ -20,6 +20,8 @@ Read capstone final report to understand how the code works
 the two of the modules.
 To increase the number of connected modules, refer to instructions at: https://www.hackster.io/ybryan3/hexabitz-ir-theremin-6c96b0
 
+Original Firmware can be found at: https://github.com/HexabitzPlatform/H08R6x-Firmware
+- Replace Bos.c, and files inside [User] to the original firmware that can be found in the above link
 ===============================================
 
 ## Submodules ##
