@@ -14,6 +14,12 @@ Module web page: https://hexabitz.com/product/1d-lidar-ir-sensor-h08r60/
 
 Hexabitz is a new kind of electronic prototyping platforms with game-changing modularity and a hint of biomimicry. Hexabitz modules connect with each other using a novel edge-soldering system and allow you to build tidy, compact and completely re-configurable electronic boards. **Learn more about Hexabitz [here](https://www.hexabitz.com/)**.
 
+## About this Project ##
+Read capstone final report to understand how the code works
+- To directly upload firmware to the modules, go to [hex backup] → and install "H08R6-Module 1" and "H08R6-Module 2"  to 
+the two of the modules.
+To increase the number of connected modules, refer to instructions at: https://www.hackster.io/ybryan3/hexabitz-ir-theremin-6c96b0
+
 ===============================================
 
 ## Submodules ##
